@@ -32,7 +32,7 @@ Follow the steps below to get started with DHDM:
 
 ### Getting Started
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/Emritik/DHDM.git`
 2. Install the required dependencies: `npm install`
 
 ### To deploy the Smart Contract
