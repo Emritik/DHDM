@@ -1,10 +1,6 @@
 ## About The Project
 
-MedRecChain is a decentralized solution for Electronic Medical Records sharing systems (EMR). It utilizes the Ethereum network and IPFS technology to provide a secure and transparent platform for managing and sharing medical records.
-
-### Live Demo
-
-- [MedRecChain](https://med-rec-chain.vercel.app/)
+DHDM is a decentralized solution for Electronic Medical Records sharing systems (EMR). It utilizes the Ethereum network and IPFS technology to provide a secure and transparent platform for managing and sharing medical records.
 
 
 ### Requirements
@@ -32,11 +28,11 @@ MedRecChain is a decentralized solution for Electronic Medical Records sharing s
 
 ## How To Use
 
-Follow the steps below to get started with MedRecChain:
+Follow the steps below to get started with DHDM:
 
 ### Getting Started
 
-1. Clone the repository: `git clone https://github.com/MedRecChain/MedRecChain.git`
+1. Clone the repository: `git clone `
 2. Install the required dependencies: `npm install`
 
 ### To deploy the Smart Contract
@@ -80,7 +76,7 @@ jsipfs daemon
 
 ## Contributing
 
-We welcome contributions to MedRecChain. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+We welcome contributions to DHDM. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ### [Helpful link to make new branch ](https://www.varonis.com/blog/git-branching)
 ### [How to Use Git and GitHub in a Team like a Pro](https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/)
