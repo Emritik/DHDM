@@ -12,14 +12,14 @@ module.exports = {
       port: 7545, // Standard Ethereum port (default: none)
       network_id: "*", // Any network (default: none)
     },
-    // sepolia: {
-    //   provider: () => new HDWalletProvider(MNEMONIC, `https://eth-sepolia.g.alchemy.com/v2/${PROJECT_ID}`),
-    //   network_id: "11155111",
-    //   confirmations: 2,
-    //   timeoutBlocks: 200,
-    //   gas: 4465030,
-    //   skipDryRun: true
-    // },
+    sepolia: {
+      provider: () => new HDWalletProvider(MNEMONIC, `https://eth-sepolia.g.alchemy.com/v2/${PROJECT_ID}`),
+      network_id: "11155111",
+      confirmations: 2,
+      timeoutBlocks: 200,
+      gas: 4465030,
+      skipDryRun: true
+    },
 
   },
 
