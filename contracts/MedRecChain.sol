@@ -11,7 +11,9 @@ contract MedRecChain is AccessControl {
     bytes32 public constant PATIENT_ROLE = keccak256("PATIENT_ROLE");
 
     // Admin refers to government, It hard coded by us.
-    address public Admin = 0x08905B5AeEf4816491d3142e97B6eF4Eb5602eeA;
+    // Change the ganahe testnet wallet address to the Sepolia Testnet wallet address.
+
+    address public Admin = 0x852c04F68789545cCccf2ED4FB0eFf03401d2b5c;
 
     // event
     event AccessGranted(
